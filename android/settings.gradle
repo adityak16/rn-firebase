@@ -1,0 +1,3 @@
+rootProject.name = 'firbase'
+
+include ':app'
